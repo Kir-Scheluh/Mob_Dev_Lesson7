@@ -16,3 +16,4 @@ rootProject.name = "Lesson 7"
 include ':app'
 include ':timeservice'
 include ':httpurlconnection'
+include ':firebaseauth'
